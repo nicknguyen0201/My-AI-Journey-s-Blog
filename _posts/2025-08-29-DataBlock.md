@@ -1,7 +1,7 @@
 # MINST and how do we go about teaching computer to distinguish 3 and 7 (Numbers Recognition).
 
 Food for thoughts: how do you know if 3 is 3 and 7 is 7? 
-- Oh well, back in kindergarten my teacher have us drawn it on the paper, 3 looks curvy, and like an 8 spit in half, while 7 is similar to 1.
+- Oh well, back in kindergarten my teacher had us drawn them on paper, 3 looks curvy, kind of like an 8 spit in half, while 7 is more similar to 1. Yes, the curves are what help me tell them apart!
 
 
 ---
