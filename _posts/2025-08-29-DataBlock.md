@@ -5,7 +5,7 @@ Food for thoughts: how do you know if 3 is 3 and 7 is 7?
 
 ## 1. Designing a decent baseline
 Vocab: *Tensors* = PyTorch’s way to store and manipulate numeric data (like images, text embeddings, signals, etc.) on CPU or GPU.
-- A decent baseline help you know if you have created a good model or a retarded one.
+- A decent baseline help you know if you have created a good model or a retarded one. A decent baseline in this context could be creating an ideal 3 and ideal 7 by taking average of a bunch of 3 images and 7 images, then we will compare a digit to see how close is it to the average 3 or 7 to make our decision
 ---
 
 ## Lists
